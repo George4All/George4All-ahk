@@ -1,0 +1,3 @@
+Hi :))
+So basically Open Terminal.ahk is a simple script that as the name says, opens the terminal when you click Windows Key and T
+Open Terminal 2.0.ahk is the more upgraded version that opens the terminal as an admin, and allows you to press Windows Key and T to minimize and refocus the app.
